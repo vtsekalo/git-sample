@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-Chamzat Chimaev
-=======
-Ilia
-Alexander
->>>>>>> dev
